@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    /*Reset*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: darkblue;
+    color: white;
+    border: 10px solid greenyellow;
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+.box-four{
+    background-color: aqua;
+    color: yellow;
+    border: 10px solid pink;
+    width: 300px;
+    height: 100px;
+    overflow: scroll;
+    margin: 15px;
+    padding-right: 20px;
+    padding-left: 20px; 
+}
+.box-five{
+    background-color:chocolate;
+    color: white;
+    border: 10px solid pink;
+    width: 50%; 
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+h1{
+    margin: 15px;
+    border: 5px solid #E96464;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.box-six{
+    background-color: #63474D;
+    color: #FEC196;
+    border: 10px solid #AA767C;
+    margin-left: 80px;
+    margin-right: 40px;
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+
+/*Border Styles*/
+
+h2{
+    margin: 15px;
+    border: 2.5px solid orange;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.box-seven{
+    background-color: #2E5339;
+    color: #FFCCC9;
+    border: 10px dashed #FF5666;
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+.box-eight{
+    background-color: #1B2021;
+    color: #EA638C;
+    border: 10px dotted #89023E;
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+.box-nine{
+    background-color: #226CE0;
+    color: #D0BCD5;
+    border: 0px
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+
+.box-ten{
+    background-color: #2A6041;
+    color: #7CFEF0;
+    border-right: 10px dotted #28965A;
+    border-bottom: 10px solid #6BFFB8;
+    border-top: 10px dashed #2CEAA3;
+    border-left: 10px groove #28965A;
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
+.box-eleven{
+    background-color: #654C4F;
+    color: #C0CAAD;
+    border: 10px solid #B26E63;
+    border-radius: 10px;
+    padding-right: 20px;
+    padding-left: 20px; 
+    margin: 15px;
+}
